@@ -40,23 +40,30 @@ h1 {
     /* margin-top: 50px */
 }
 
- /* section {
-    border: 1px solid red;
-} */
-
-/* section .model-image {
-    border: 1px solid green;
-} */
-
 .about-me {
     background-image: url(image/aboutme-bg.png);
-    background-repeat: no-repeat;
     background-size: 100%;
+    background-repeat: no-repeat;
     display: flex;
+    margin-bottom: 50px ;
     width: 100%;
+}
+
+.aboutme-model-pic {
+    margin-top: 64px;
+    margin-left: 30px;
+    width: 100%;
+}
+
+.aboutme-model-pic img{
+    height: 500px;
+    width: 650px;
 }
 
 .flexible {
     width: 50%;
-    margin: 5%;
+}
+.aboutme-info {
+    width: 50%;
+    margin: 0 150px;
 }
