@@ -32,7 +32,11 @@ h2{
     height: 750px;
 
 }
-
+.top-banner p{
+    margin-bottom: 50px;
+    margin-left: 100px;
+    margin-top: -10px;
+}
 .button-style {
     text-decoration: none;
     color: white;
