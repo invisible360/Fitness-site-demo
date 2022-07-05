@@ -14,6 +14,10 @@ h2{
     font-size: 40px;
 }
 
+h4{
+    font-size: 20px;
+}
+
 .orange-color {
     color: rgba(255, 68, 0, 0.699)
 }
@@ -80,4 +84,34 @@ h2{
     margin-top: 40px;
     margin-bottom: 80px;
     line-height: 1.6;
+    text-align: left;
+}
+
+.recipies h2{
+    text-align: center;
+}
+.recipies p{
+    margin-left: 325px;
+    margin-right: 325px;
+    text-align: center;
+
+}
+.names-of-recipe {
+    display: flex;
+    width: 100%;
+    margin-top: 30px ;
+    margin-bottom: 80px;
+}
+.food{
+    box-shadow: 1px 2px 15px 5px rgba(128, 128, 128, 0.251);
+    padding: 20px;
+    border-radius: 30px;
+}
+.food img{
+    width:100%
+}
+.food p{
+    text-align: left;
+    margin: 0 10px 20px 0;
+    line-height: 1.5;
 }
