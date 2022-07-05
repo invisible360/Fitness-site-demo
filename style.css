@@ -50,7 +50,7 @@ h1 {
     padding-left: 20px;
 } */
 
-a {
+.button-style {
     text-decoration: none;
     color: white;
     font-weight: 700;
@@ -60,10 +60,10 @@ a {
     /* margin-top: 50px */
 }
 
-/* section {
+ /* section {
     border: 1px solid red;
-}
+} */
 
-section .model-image {
+/* section .model-image {
     border: 1px solid green;
 } */
