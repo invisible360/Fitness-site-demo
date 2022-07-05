@@ -25,6 +25,9 @@ h4{
 .fade-color {
     color: rgba(0, 0, 0, 0.735);
 }
+.off-white{
+    color: rgba(255, 255, 255, 0.459)
+}
 
 
 .top-banner {
@@ -122,8 +125,17 @@ h4{
     margin: 0 6%;
     box-shadow: 1px 2px 15px 5px rgba(128, 128, 128, 0.251);
     border-radius: 30px;
-    margin-bottom: 80px;
+    margin-bottom: 60px;
 }
 .stats h2 {
     margin-bottom: 0;
+}
+
+footer {
+    background-color: black;
+    text-align: center;
+    height: 150px;
+}
+.foot {
+    padding: 1%;
 }
