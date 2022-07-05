@@ -19,10 +19,6 @@ h1 {
     color: rgba(0, 0, 0, 0.735);
 }
 
-/* .flexible-container {
-    display: inline-block;
-    width: 100%;
-} */
 
 .top-banner {
     background-image: url(image/model.png);
@@ -33,22 +29,6 @@ h1 {
     height: 750px;
 
 }
-
-/* .top-half-width {
-    width: 50%;
-
-} */
-
-/* .model-image img {
-    width: 100%;
-
-} */
-
-/* .headings-line {
-    margin-left: 50px;
-    padding-top: 100px;
-    padding-left: 20px;
-} */
 
 .button-style {
     text-decoration: none;
@@ -67,3 +47,16 @@ h1 {
 /* section .model-image {
     border: 1px solid green;
 } */
+
+.about-me {
+    background-image: url(image/aboutme-bg.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    display: flex;
+    width: 100%;
+}
+
+.flexible {
+    width: 50%;
+    margin: 5%;
+}
