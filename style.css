@@ -10,6 +10,9 @@ h1 {
     display: inline-block;
 
 }
+h2{
+    font-size: 40px;
+}
 
 .orange-color {
     color: rgba(255, 68, 0, 0.699)
@@ -64,6 +67,13 @@ h1 {
     width: 50%;
 }
 .aboutme-info {
-    width: 50%;
-    margin: 0 150px;
+    margin-top: 100px;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+.aboutme-info p{
+    margin-top: 40px;
+    margin-bottom: 80px;
+    line-height: 1.6;
 }
